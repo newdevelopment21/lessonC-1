@@ -1,0 +1,15 @@
+C:\for geekBrains\examples1\examples001_helloConsole\bin\Debug\net7.0\examples001_helloConsole.exe
+C:\for geekBrains\examples1\examples001_helloConsole\bin\Debug\net7.0\examples001_helloConsole.deps.json
+C:\for geekBrains\examples1\examples001_helloConsole\bin\Debug\net7.0\examples001_helloConsole.runtimeconfig.json
+C:\for geekBrains\examples1\examples001_helloConsole\bin\Debug\net7.0\examples001_helloConsole.dll
+C:\for geekBrains\examples1\examples001_helloConsole\bin\Debug\net7.0\examples001_helloConsole.pdb
+C:\for geekBrains\examples1\examples001_helloConsole\obj\Debug\net7.0\examples001_helloConsole.csproj.AssemblyReference.cache
+C:\for geekBrains\examples1\examples001_helloConsole\obj\Debug\net7.0\examples001_helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\for geekBrains\examples1\examples001_helloConsole\obj\Debug\net7.0\examples001_helloConsole.AssemblyInfoInputs.cache
+C:\for geekBrains\examples1\examples001_helloConsole\obj\Debug\net7.0\examples001_helloConsole.AssemblyInfo.cs
+C:\for geekBrains\examples1\examples001_helloConsole\obj\Debug\net7.0\examples001_helloConsole.csproj.CoreCompileInputs.cache
+C:\for geekBrains\examples1\examples001_helloConsole\obj\Debug\net7.0\examples001_helloConsole.dll
+C:\for geekBrains\examples1\examples001_helloConsole\obj\Debug\net7.0\refint\examples001_helloConsole.dll
+C:\for geekBrains\examples1\examples001_helloConsole\obj\Debug\net7.0\examples001_helloConsole.pdb
+C:\for geekBrains\examples1\examples001_helloConsole\obj\Debug\net7.0\examples001_helloConsole.genruntimeconfig.cache
+C:\for geekBrains\examples1\examples001_helloConsole\obj\Debug\net7.0\ref\examples001_helloConsole.dll
